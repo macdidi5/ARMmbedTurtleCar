@@ -50,3 +50,12 @@
 
 ![](https://github.com/macdidi5/ARMmbedTurtleCar/blob/master/images/L293D.png)
 
+## ARM mbed 應用程式
+
+原始程式碼公開在 ARM mbed 開發平台：
+
+<a href="http://developer.mbed.org/users/macdidi5/code/mbedTurtleCar/">http://developer.mbed.org/users/macdidi5/code/mbedTurtleCar/</a>
+
+## Android App
+
+Android Studio專案，原始程式碼專案目錄「TurtleCarMobile」。
