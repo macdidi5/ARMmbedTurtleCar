@@ -38,3 +38,15 @@
 
 ## 線路圖
 
+* HC-05，藍牙模組
+
+![](https://github.com/macdidi5/ARMmbedTurtleCar/blob/master/images/HC05.png)
+
+* HC-SR04，超音波測距感應模組
+
+![](https://github.com/macdidi5/ARMmbedTurtleCar/blob/master/images/HCSR04.png)
+
+* L293D，直流馬達控制晶片
+
+![](https://github.com/macdidi5/ARMmbedTurtleCar/blob/master/images/L293D.png)
+
